@@ -8,4 +8,4 @@ K-Nearest Neighbors is supervised machine learing method that is used for classi
 
 <br/>
 
-<img src="KNN_1" width="500" height="250">
+<img src="KNN_1.png" width="500" height="250">
