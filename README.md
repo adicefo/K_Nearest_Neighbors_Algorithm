@@ -11,7 +11,7 @@ K-Nearest Neighbors is supervised machine learing method that is used for classi
 # Project
 
 In this project we use K-NN algorithm to classify students in two classes 0 or 1 according to their grade increase in subjects PRI,PRII,PRIII.
-For example if student has <b>PRI-6</b>, <b>PRII-7</b>,<b>PRIII-8</b> the student will be classified in class <b>1</b>, which means he got <b>increase</b>in his marks from those particular subjects. That could be useful for university managment to recognize a possible improvments/problems and to properly act with them.
+For example if student has <b>PRI-6</b>, <b>PRII-7</b>,<b>PRIII-8</b> the student will be classified in class <b>1</b>, which means he got <b>increase</b> in his marks from those particular subjects. That could be useful for university managment to recognize a possible improvments/problems and to properly act with them.
 <br/>
 
 <img src="KNN_1.png" width="500" height="250">
